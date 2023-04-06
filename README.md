@@ -17,4 +17,4 @@ rustc guessing_game.rs
 7. The program will tell you if your guess is too small, too big, or if you have won. If you have not won, go back to step 6 and keep guessing until you win.
 
 ## Dependencies
-This program uses the rand and std::io libraries. These are part of the Rust standard library and should be available by default.
+This program uses the rand and std::io libraries.
