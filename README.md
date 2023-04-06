@@ -3,7 +3,7 @@ This is a simple guessing number game made in Rust. The program generates a rand
 
 ## How to Play
 1. Clone the repository or download the guessing_game.rs file.
-2. Install Rust on your machine if you haven't already. You can do this by following the instructions here.
+2. Install Rust on your machine if you haven't already. You can do this by following the instructions [here](https://www.rust-lang.org/tools/install).
 3. Open your terminal and navigate to the directory containing the guessing_game.rs file.
 4. Compile the program by running the following command:
 ```bash
